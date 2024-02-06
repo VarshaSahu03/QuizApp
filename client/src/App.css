@@ -1,0 +1,18 @@
+/* App.css */
+
+.card {
+  background: #343a40;
+  margin: 1rem;
+  padding: 2rem;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.card-title {
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.q-sec{
+  margin:1rem;
+}
